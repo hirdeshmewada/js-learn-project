@@ -80,6 +80,6 @@ console.log(gameCount);  //101
 ++gameCount;
 console.log(++gameCount);//103
 console.log(gameCount++);//103
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
+console.log(++gameCount);//103
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
 
