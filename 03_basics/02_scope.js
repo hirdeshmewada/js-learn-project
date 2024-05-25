@@ -12,3 +12,6 @@ if (true) {
 // console.log(b); //ReferenceError: b is not defined
 console.log(c); //30
 console.log(a); //40
+
+
+//scope
