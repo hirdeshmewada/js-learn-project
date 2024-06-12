@@ -1,7 +1,9 @@
 # js-hindi
-a code repo for javascript series at chai aur code yt channel 
+
+a code repo for javascript series at chai aur code yt channel
 
 # My Projects
+
 Here are some of my projects:
 
 1. [BMI Calculator](https://hirdeshmewada.github.io/js-hindi/07_projects/2-BMICalculator/)  
@@ -16,3 +18,10 @@ Here are some of my projects:
 4. [Guess the Number](https://hirdeshmewada.github.io/js-hindi/07_projects/4-GuessTheNumber/)  
    This project is a simple game where users try to guess a randomly generated number.
 
+5. [Keyboard](https://hirdeshmewada.github.io/js-hindi/07_projects/5-keyboard)
+
+Detect keys press on Keyboard
+
+6. [Unlimited Color](https://hirdeshmewada.github.io/js-hindi/07_projects/6-unlimitedColors)
+
+Start and stop generating color every second new
