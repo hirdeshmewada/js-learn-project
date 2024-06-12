@@ -19,7 +19,9 @@ Here are some of my projects:
    This project is a simple game where users try to guess a randomly generated number.
 
 5. [Keyboard](https://hirdeshmewada.github.io/js-hindi/07_projects/5-keyboard)
+
    Detect keys press on Keyboard
 
 6. [Unlimited Color](https://hirdeshmewada.github.io/js-hindi/07_projects/6-unlimitedColors)
+
    Start and stop generating color every second new
